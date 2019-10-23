@@ -63,25 +63,25 @@ Binary field - learning binary
 # 3. Требования к интерфейсу
 
 ## 3.1 Пользовательский интерфейс  
-Главное меню
-![Главное меню](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/MainMenu.png)  
-Окно FAQ
-![Окно FAQ](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/FAQ.png)  
-Окно статистики игрока
+Главное меню  
+![Главное меню](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/MainMenu.png)    
+Окно FAQ  
+![Окно FAQ](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/FAQ.png)    
+Окно статистики игрока  
 ![Окно статистики игрока](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/Statistics.png)  
-Выбор сложности для одиночной игры
+Выбор сложности для одиночной игры  
 ![Выбор сложности для одиночной игры](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/DifficultySelection.png)  
-Одиночная игра
+Одиночная игра  
 ![Одиночная игра](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/GameScreen.png)  
-Выбор игровой комнаты при игре по локальной сети
+Выбор игровой комнаты при игре по локальной сети  
 ![Выбор игровой комнаты при игре по локальной сети](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/GameRooms.png)
-Игровая комната с выбором сложности
+Игровая комната с выбором сложности  
 ![Игровая комната с выбором сложности](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/RoomScreen.png)
-Игра по локальной сети
+Игра по локальной сети  
 ![Игра по локальной сети](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/LANGameScreen.png)
-Окно победы
+Окно победы  
 ![Окно победы](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/WinScreen.png)
-Окно поражения
+Окно поражения  
 ![Окно поражения](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/LoseScreen.png)
 
 # 4. Функциональные особенности 
