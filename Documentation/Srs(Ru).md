@@ -64,25 +64,25 @@ Binary field - learning binary
 
 ## 3.1 Пользовательский интерфейс  
 Главное меню
-![](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/MainMenu.png)  
+![Главное меню](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/MainMenu.png)  
 Окно FAQ
-![](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/FAQ.png)  
+![Окно FAQ](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/FAQ.png)  
 Окно статистики игрока
-![](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/Statistics.png)  
+![Окно статистики игрока](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/Statistics.png)  
 Выбор сложности для одиночной игры
-![](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/DifficultySelection.png)  
+![Выбор сложности для одиночной игры](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/DifficultySelection.png)  
 Одиночная игра
-![](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/GameScreen.png)  
+![Одиночная игра](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/GameScreen.png)  
 Выбор игровой комнаты при игре по локальной сети
-![](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/GameRooms.png)
+![Выбор игровой комнаты при игре по локальной сети](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/GameRooms.png)
 Игровая комната с выбором сложности
-![](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/RoomScreen.png)
+![Игровая комната с выбором сложности](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/RoomScreen.png)
 Игра по локальной сети
-![](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/LANGameScreen.png)
+![Игра по локальной сети](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/LANGameScreen.png)
 Окно победы
-![](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/WinScreen.png)
+![Окно победы](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/WinScreen.png)
 Окно поражения
-![](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/LoseScreen.png)
+![Окно поражения](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/LoseScreen.png)
 
 # 4. Функциональные особенности 
  - Начать однопользовательскую игру;
