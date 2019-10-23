@@ -73,9 +73,9 @@ Binary field - learning binary
 ![Выбор сложности для одиночной игры](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/DifficultySelection.png)  
 Одиночная игра  
 ![Одиночная игра](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/GameScreen.png)  
-Выбор игровой комнаты при игре по локальной сети  
+Выбор игровой комнаты при игре по локальной сети    
 ![Выбор игровой комнаты при игре по локальной сети](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/GameRooms.png)
-Игровая комната с выбором сложности  
+Игровая комната с выбором сложности   
 ![Игровая комната с выбором сложности](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/RoomScreen.png)
 Игра по локальной сети  
 ![Игра по локальной сети](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/LANGameScreen.png)
