@@ -63,16 +63,26 @@ Binary field - learning binary
 # 3. Требования к интерфейсу
 
 ## 3.1 Пользовательский интерфейс  
-Игровой лаунчер с графическими настройками  
-![](https://github.com/KabarykhaVictor750504/ProjectX/blob/master/Mackup/GameLaucher(Graphics).png)  
-Игровой лаунчер с настройками управления 
-
-![](https://github.com/KabarykhaVictor750504/ProjectX/blob/master/Mackup/GameLaucher(Input).png)  
-Главное меню  ![Главное меню](https://github.com/KabarykhaVictor750504/ProjectX/blob/master/Mackup/MainMenu.png)  
-Примерное представление прыжка(стрелки в самой игре не будет)  ![Примерное представление прыжка(стрелки в самой игре не будет](https://github.com/KabarykhaVictor750504/ProjectX/blob/master/Mackup/JumpAndWalk.png)  
-Примерное представление атаки и блока  ![Примерное представление атаки и блока](https://github.com/KabarykhaVictor750504/ProjectX/blob/master/Mackup/BlockAndAtack.png)  
-Меню паузы  ![Меню паузы](https://github.com/KabarykhaVictor750504/ProjectX/blob/master/Mackup/GameMenu.png)  
-Инвентарь героя  ![Инвентарь героя](https://github.com/KabarykhaVictor750504/ProjectX/blob/master/Mackup/Inventory.png)  
+Главное меню
+![](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/MainMenu.png)  
+Окно FAQ
+![](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/FAQ.png)  
+Окно статистики игрока
+![](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/Statistics.png)  
+Выбор сложности для одиночной игры
+![](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/DifficultySelection.png)  
+Одиночная игра
+![](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/GameScreen.png)  
+Выбор игровой комнаты при игре по локальной сети
+![](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/GameRooms.png)
+Игровая комната с выбором сложности
+![](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/RoomScreen.png)
+Игра по локальной сети
+![](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/LANGameScreen.png)
+Окно победы
+![](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/WinScreen.png)
+Окно поражения
+![](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/LoseScreen.png)
 
 # 4. Функциональные особенности 
  - Начать однопользовательскую игру;
