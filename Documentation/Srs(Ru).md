@@ -72,17 +72,17 @@ Binary field - learning binary
 Выбор сложности для одиночной игры  
 ![Выбор сложности для одиночной игры](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/DifficultySelection.png)  
 Одиночная игра  
-![Одиночная игра](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/GameScreen.png)  
+![Одиночная игра](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/GameScreen.png)   
 Выбор игровой комнаты при игре по локальной сети    
-![Выбор игровой комнаты при игре по локальной сети](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/GameRooms.png)
+![Выбор игровой комнаты при игре по локальной сети](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/GameRooms.png)  
 Игровая комната с выбором сложности   
-![Игровая комната с выбором сложности](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/RoomScreen.png)
+![Игровая комната с выбором сложности](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/RoomScreen.png)  
 Игра по локальной сети  
-![Игра по локальной сети](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/LANGameScreen.png)
+![Игра по локальной сети](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/LANGameScreen.png)  
 Окно победы  
-![Окно победы](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/WinScreen.png)
+![Окно победы](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/WinScreen.png)  
 Окно поражения  
-![Окно поражения](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/LoseScreen.png)
+![Окно поражения](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/LoseScreen.png)  
 
 # 4. Функциональные особенности 
  - Начать однопользовательскую игру;
