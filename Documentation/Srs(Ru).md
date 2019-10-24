@@ -66,7 +66,7 @@ Binary field - learning binary
 Главное меню  
 ![Главное меню](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/MainMenu.png)    
 Окно FAQ  
-![Окно FAQ](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/FAQ.png)    
+![Окно FAQ](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/FAQfix.png)    
 Окно статистики игрока  
 ![Окно статистики игрока](https://github.com/Cemiroling/BF-LB/blob/master/Mackups/Statistics.png)  
 Выбор сложности для одиночной игры  
