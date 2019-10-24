@@ -37,7 +37,7 @@ Binary field - learning binary
 ## 1.4 Аналоги разрабатываемого проекта
 *[Binary Grid - Brain Math Game](https://play.google.com/store/apps/details?id=studio.breaker.grid.binary.single.and.two.players&hl=ru)* - головоломка, содержащая большое количество сложностей и возможность многопольовательской игры на одном устройстве. Является приимером того, что ожидается от проекта.
 
-*[Learn Binary](https://play.google.com/store/apps/details?id=com.codefeverr.binarygame&hl=en_ru)* - в сравнении с прошлым аналогом в игре содержатся только 2 уровня сложности и отсутствуют возможность многопользовательской игры.
+*[Learn Binary](https://play.google.com/store/apps/details?id=com.codefeverr.binarygame&hl=en_ru)* - в сравнении с предыдущим аналогом в игре содержатся только 2 уровня сложности и отсутствуют возможность многопользовательской игры.
 
 *[Grid of Bits](https://play.google.com/store/apps/details?id=com.franzsarmiento.gridofbits&hl=ru)* - присутствует 3 уровня сложности и отсутствует многопользовательская игра.
 
