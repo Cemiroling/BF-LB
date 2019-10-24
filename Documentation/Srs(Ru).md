@@ -35,11 +35,11 @@ Binary field - learning binary
 Данный проект является игрой, идея которой заключается в изучении двоичных чисел путем конвертирования набора десятичных чисел в двоичную систему исчисления, с целью правильно заполнить битовую матрицу. Данная игра рекомендутся в основном для людей, которым необходимо умение быстро переводить десятичные числа в двоичные.
 
 ## 1.4 Аналоги разрабатываемого проекта
-*[Binary Grid - Brain Math Game](https://play.google.com/store/apps/details?id=studio.breaker.grid.binary.single.and.two.players&hl=ru)*.
+*[Binary Grid - Brain Math Game](https://play.google.com/store/apps/details?id=studio.breaker.grid.binary.single.and.two.players&hl=ru)* - головоломка, содержащая большое количество сложностей и возможность многопольовательской игры на одном устройстве. Является приимером того, что ожидается от проекта.
 
-*[Learn Binary](https://play.google.com/store/apps/details?id=com.codefeverr.binarygame&hl=en_ru)*.
+*[Learn Binary](https://play.google.com/store/apps/details?id=com.codefeverr.binarygame&hl=en_ru)* - в сравнении с прошлым аналогом в игре содержатся только 2 уровня сложности и отсутствуют возможность многопользовательской игры.
 
-*[Grid of Bits](https://play.google.com/store/apps/details?id=com.franzsarmiento.gridofbits&hl=ru)*.
+*[Grid of Bits](https://play.google.com/store/apps/details?id=com.franzsarmiento.gridofbits&hl=ru)* - присутствует 3 уровня сложности и отсутствует многопользовательская игра.
 
 # 2 Общее описание
 
