@@ -15,5 +15,5 @@
 ![](https://github.com/Cemiroling/BF-LB/blob/master/Diagrams/Sequence/FAQ.png)
 ## 1.4 Сбор предметов
 ![](https://github.com/Cemiroling/BF-LB/blob/master/Diagrams/Sequence/Statistics.png)
-## 1.5 Сражение 
+## 1.5 Многопользовательская игра 
 ![](https://github.com/Cemiroling/BF-LB/blob/master/Diagrams/Sequence/Multiplayer.png)
