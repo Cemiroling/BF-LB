@@ -11,9 +11,9 @@
 ![](https://github.com/Cemiroling/BF-LB/blob/master/Diagrams/Sequence/Singleplayer.png)
 ## 1.2 Выйти из игры
 ![](https://github.com/Cemiroling/BF-LB/blob/master/Diagrams/Sequence/Exit.png)
-## 1.3 Торговля
+## 1.3 Открыть руководство пользователя
 ![](https://github.com/Cemiroling/BF-LB/blob/master/Diagrams/Sequence/FAQ.png)
-## 1.4 Сбор предметов
+## 1.4 Просмотреть статистику
 ![](https://github.com/Cemiroling/BF-LB/blob/master/Diagrams/Sequence/Statistics.png)
 ## 1.5 Многопользовательская игра 
 ![](https://github.com/Cemiroling/BF-LB/blob/master/Diagrams/Sequence/Multiplayer.png)
