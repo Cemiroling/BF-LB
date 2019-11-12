@@ -9,7 +9,7 @@
 1.2.5 [Многопользовательская игрa](#125-Multiplayer)  
 
 # 1. Диаграмма вариантов использования 
-![Диаграмма-вариантов использования](https://github.com/Cemiroling/BF-LB/blob/master/Diagrams/Use%20case/Use%20case.png) 
+![Диаграмма-вариантов использования](https://github.com/Cemiroling/BF-LB/blob/master/Diagrams/Use%20case/UseCase.png) 
 ## 1.1 Актёры 
   Игрок - человек, который принимает участие в игровом процессе  
 
